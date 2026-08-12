@@ -4,5 +4,5 @@
   "update_title": "New Version Available",
   "update_message": "Improvements and connection stability fixes.",
   "download_url": "https://t.me/MRNETORF",
-  "force_update": fixes 
+  "force_update": true
 }
