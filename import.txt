@@ -1,3 +1,0 @@
-cd ~/storage/downloads
-ls
-python generate_import_code.py
