@@ -4,5 +4,12 @@
   "update_title": "New Version Available",
   "update_message": "Improvements and connection stability fixes.",
   "download_url": "https://sbaimarouane3-oss.github.io/MR-VPN-TUNNEL-DOWNLOAD/",
-  "force_update": true
+  "force_update": true,
+
+  "latest_version_pc": 101,
+  "version_name_pc": "1.0",
+  "update_title_pc": "New Version Available",
+  "update_message_pc": "Improvements and connection stability fixes.",
+  "download_url_pc": "https://github.com/sbaimarouane3-oss/MRVPN/releases/latest",
+  "force_update_pc": false
 }
