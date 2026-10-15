@@ -11,5 +11,5 @@
   "update_title_pc": "New Version Available",
   "update_message_pc": "Improvements and connection stability fixes.",
   "download_url_pc": "https://github.com/sbaimarouane3-oss/MRVPN/releases/latest",
-  "force_update_pc": false
+  "force_update_pc": true
 }
