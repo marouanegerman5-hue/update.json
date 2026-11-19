@@ -1,8 +1,8 @@
 {
   "latest_version": 597,
   "version_name": "1.1",
-  "update_title": "New Version Available",
-  "update_message": "Improvements and connection stability fixes.",
+  "update_title": "يتوفر إصدار جديد",
+  "update_message": "يتوفر تحديث جديد للتطبيق يتضمن تحسينات وإصلاحات لتعزيز استقرار الاتصال. يُرجى تحميل أحدث إصدار للاستفادة من التحسينات الجديدة.",
   "download_url": "https://sbaimarouane3-oss.github.io/MR-VPN-TUNNEL-DOWNLOAD/",
   "force_update": true,
 
